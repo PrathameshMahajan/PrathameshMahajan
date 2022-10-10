@@ -1,4 +1,4 @@
-# ![Hi, I'm Prathamesh](https://bam-readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Prathamesh!👋🏼;+;+)
+[![Typing SVG](https://typing-text-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I'm+Prathamesh!+%F0%9F%91%8B%F0%9F%8F%BC)](https://git.io/typing-svg)
 
 
 ### 🧰 Here is what I'm working on!  
