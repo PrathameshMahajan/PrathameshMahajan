@@ -1,4 +1,4 @@
-# ![Hi, I'm Prathamesh](https://bam-readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Adil!👋🏼;+;+)
+# ![Hi, I'm Prathamesh](https://bam-readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Prathamesh!👋🏼;+;+)
 
 
 ### 🧰 Here is what I'm working on!  
