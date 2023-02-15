@@ -3,7 +3,7 @@
 
 ### 🧰 Here is what I'm working on!  
 
-- 🔭 I’m currently working on Data Science and Backend Development.
+- 🔭 I’m currently working on Machine Learning and Backend Development.
 - 🤔 What is my highest qualification? - Integrated Master of Technology in [Bioengineering](https://mitbio.edu.in/) with concentration in computer programming! 
 - ☕️ Always up for coffee if you're around! 
 
