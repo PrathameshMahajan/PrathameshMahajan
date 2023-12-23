@@ -13,5 +13,4 @@
 
 ![Python](https://img.shields.io/badge/Python-000?style=plastic&logo=Python&logoColor=3776AB)
 ![Git](https://img.shields.io/badge/Git-000?style=plastic&logo=Git&logoColor=F05032)
-![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-000?&style=plastic&logo=database&logoColor=025E8C)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000?&style=plastic&logo=mongodb&logoColor=13aa52)
