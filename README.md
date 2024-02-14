@@ -2,8 +2,7 @@
 
 ### 🧰 Here is what I'm working on!  
 
-- 🔭 I’m currently working on Machine Learning and Backend Development.
-- 🤔 What is my highest qualification? - Integrated Master of Technology in [Bioengineering](https://mitbio.edu.in/) with concentration in computer programming! 
+- 🔭 Expertise in Machine Learning and Python Development. 
 - ☕️ Always up for coffee if you're around! 
 
 
